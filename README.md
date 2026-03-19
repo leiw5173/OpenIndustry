@@ -179,4 +179,3 @@ Open an issue to start a discussion.
 ## License
 
 Apache 2.0. See [LICENSE](LICENSE).
-# OpenIndustry
