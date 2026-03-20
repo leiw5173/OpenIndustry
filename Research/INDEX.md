@@ -26,8 +26,6 @@
 | OpenEMS | 能源开源项目 | [OpenEMS.md](./OpenEMS.md) |
 | openleadr | OpenADR 生态项目 | [openleadr.md](./openleadr.md) |
 | Eclipse Foundation | 基金会 | [Eclipse_Foundation.md](./Eclipse_Foundation.md) |
-| 工业开源分类框架 | 方法论/总论 | [Industrial_Open_Source_Framework.md](./Industrial_Open_Source_Framework.md) |
-| 中国工业开源语境 | 中国语境/总论 | [China_Context.md](./China_Context.md) |
 
 ## 统一判断口径
 
