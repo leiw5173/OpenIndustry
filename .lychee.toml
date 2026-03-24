@@ -1,0 +1,6 @@
+[exclude]
+# These domains block automated link checkers with 403/412 but are valid URLs
+"tesla.com"
+"iec.ch"
+"caict.ac.cn"
+"openeuler.org"
