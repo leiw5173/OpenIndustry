@@ -35,6 +35,4 @@
 - 对开源社区的要求不是重复发明协议，而是围绕标准做出可靠实现、测试工具和开发者 SDK。
 
 ## 参考来源
-- https://openadr.org/
-- https://openadr.org/what-is-openadr/
-- https://openadr.org/openadr-3-0/
+- https://www.openadr.org/
