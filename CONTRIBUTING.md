@@ -49,7 +49,7 @@ Since this project is in its research phase, contributions to `RESEARCH.md` and 
 
 Use clear, descriptive commit messages:
 
-```
+```text
 docs: expand case study on OpenADR ecosystem
 research: add landscape survey for LF Energy projects
 fix: correct broken link in README
