@@ -1,0 +1,7 @@
+# Exclude domains that block automated link checkers with 403/412 but are valid URLs
+exclude = [
+  "tesla\\.com",
+  "iec\\.ch",
+  "caict\\.ac\\.cn",
+  "openeuler\\.org",
+]
