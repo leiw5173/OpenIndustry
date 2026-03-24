@@ -34,4 +34,4 @@
 - 它证明标准体系必须搭配开源实现，才能从文档变成生态。
 
 ## 参考来源
-- https://github.com/OpenLEADR/openleadr
+- https://github.com/OpenLEADR/openleadr-python

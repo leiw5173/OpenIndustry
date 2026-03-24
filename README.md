@@ -159,7 +159,7 @@ Before building software, this project will document:
 - [ ] Standards map: which IEC, IEEE, ISO standards lack open reference implementations?
 - [ ] Community map: who are the potential contributors and users in this space?
 
-See [`RESEARCH.md`](RESEARCH.md) (in progress).
+See [`Research/README.md`](Research/README.md) (in progress).
 
 ---
 

@@ -76,7 +76,7 @@ Prefix types: `docs`, `research`, `feat`, `fix`, `refactor`, `test`, `chore`.
 
 ## Maintainers
 
-Maintainers review PRs, triage issues, and make decisions when consensus is unclear. The current maintainer list is in [GOVERNANCE.md](GOVERNANCE.md).
+Maintainers review PRs, triage issues, and make decisions when consensus is unclear. The current maintainer list is in `GOVERNANCE.md`.
 
 ---
 

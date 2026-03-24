@@ -36,6 +36,4 @@
 - 对中国的启发是：能源数字化如果只做平台而不做开放接口，行业协同成本会长期居高不下。
 
 ## 参考来源
-- https://openadr.org/
-- https://openadr.org/about/
-- https://openadr.org/what-is-openadr/
+- https://www.openadr.org/
